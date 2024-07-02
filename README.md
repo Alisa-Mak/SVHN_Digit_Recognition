@@ -15,4 +15,4 @@ Our objective is to predict the number depicted inside the image by using Artifi
  
 
 ### Dataset:
-The dataset is present in .h5 format. in order to save ourselves a lot of computation time.
+The [dataset](https://drive.google.com/file/d/1YoTWTdShWdI55SmBp4Ie2IkaI_E3Gmp0/view) is present in .h5 format. in order to save ourselves a lot of computation time.
