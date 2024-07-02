@@ -16,3 +16,12 @@ Our objective is to predict the number depicted inside the image by using Artifi
 
 ### Dataset:
 The [dataset](https://drive.google.com/file/d/1YoTWTdShWdI55SmBp4Ie2IkaI_E3Gmp0/view) is present in .h5 format. in order to save ourselves a lot of computation time.
+
+### Key takeaways:
+This project explores the application of Generative AI and Computer Vision techniques using Keras and TensorFlow frameworks to predict digits within SVHN images. It encompasses the implementation of Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN), each tested with different configurations such as regularization techniques, varying numbers of layers, and filter sizes. The project culminates in the selection of the best-performing model based on accuracy, demonstrating effective strategies in image recognition and paving the way for advanced applications in visual data analysis.
+* Keras
+* TensorFlow
+* CNN
+* ANN
+* Computer vision
+* Generative AI
